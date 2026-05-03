@@ -4,7 +4,7 @@ RULOC is a network monitoring tool that tracks active TCP connections and automa
 
 ## Screenshot
 
-[ruloc GUI](https://dl.dropbox.com/scl/fi/fyyswrd2meloomerrtue5/ruloc-gui-variant.png?rlkey=gzhkr6k60tts65dr14vdiirqr&st=ilnlq8g5)
+![ruloc GUI](https://dl.dropbox.com/scl/fi/fyyswrd2meloomerrtue5/ruloc-gui-variant.png?rlkey=gzhkr6k60tts65dr14vdiirqr&st=ilnlq8g5)
 
 ## Features
 
